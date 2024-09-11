@@ -8,7 +8,7 @@ function Skills() {
             <h1 className='text-2xl font-extrabold font-caveat'>My Skils</h1>
             <hr className='border-2 border-blue-600 w-10 rounded-full lg:ml-4'/>
         </div> 
-        <div className="grid grid-cols-1 lg:grid-cols-6 gap-5">
+        <div className="grid grid-cols-2 lg:grid-cols-6 gap-5">
             {ListSkill?.map((result, index) => (
                 <div 
                     key={index} 

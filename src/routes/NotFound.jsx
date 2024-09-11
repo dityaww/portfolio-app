@@ -14,7 +14,7 @@ function NotFound() {
                         navigate('/')
                         // console.log("exit")
                     }}
-                    className='bg-indigo-500 hover:bg-indigo-600 hover:scale-[1.10] text-white px-8 py-2 rounded-md transition duration-500 ease-in-out font-semibold'    
+                    className='bg-indigo-500 hover:bg-indigo-600 text-white px-8 py-2 rounded-md transition duration-500 ease-in-out font-semibold'    
                 >Go Back</button>
             </div>
         </div>
